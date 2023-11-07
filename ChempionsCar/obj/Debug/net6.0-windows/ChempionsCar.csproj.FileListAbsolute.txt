@@ -1,0 +1,278 @@
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.exe
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.deps.json
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.runtimeconfig.json
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.dll
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.pdb
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.csproj.AssemblyReference.cache
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\obj\Debug\net6.0-windows\App.g.cs
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar_MarkupCompile.cache
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar_MarkupCompile.lref
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\obj\Debug\net6.0-windows\MainWindow.baml
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.g.resources
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.AssemblyInfoInputs.cache
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.AssemblyInfo.cs
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.csproj.CoreCompileInputs.cache
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.dll
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\obj\Debug\net6.0-windows\refint\ChempionsCar.dll
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.pdb
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.genruntimeconfig.cache
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\obj\Debug\net6.0-windows\ref\ChempionsCar.dll
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\obj\Debug\net6.0-windows\AddCar.g.cs
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\obj\Debug\net6.0-windows\AddCar.baml
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\obj\Debug\net6.0-windows\CarInfo.g.cs
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\obj\Debug\net6.0-windows\CarInfo.baml
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\bin\Debug\net6.0-windows\ZstdNet.dll
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\bin\Debug\net6.0-windows\comerr64.dll
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\bin\Debug\net6.0-windows\gssapi64.dll
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\bin\Debug\net6.0-windows\k5sprt64.dll
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\bin\Debug\net6.0-windows\krb5_64.dll
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\bin\Debug\net6.0-windows\krbcc64.dll
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.csproj.CopyComplete
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.dll.config
+D:\ProjektWPF_ProgramowanieIV\ChempionsCar\bin\Debug\net6.0-windows\MySqlConnector.dll
+G:\Proj.WPF\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.exe
+G:\Proj.WPF\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.dll.config
+G:\Proj.WPF\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.deps.json
+G:\Proj.WPF\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.runtimeconfig.json
+G:\Proj.WPF\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.dll
+G:\Proj.WPF\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.pdb
+G:\Proj.WPF\ChempionsCar\bin\Debug\net6.0-windows\Google.Protobuf.dll
+G:\Proj.WPF\ChempionsCar\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+G:\Proj.WPF\ChempionsCar\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+G:\Proj.WPF\ChempionsCar\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+G:\Proj.WPF\ChempionsCar\bin\Debug\net6.0-windows\MySql.Data.dll
+G:\Proj.WPF\ChempionsCar\bin\Debug\net6.0-windows\ZstdNet.dll
+G:\Proj.WPF\ChempionsCar\bin\Debug\net6.0-windows\comerr64.dll
+G:\Proj.WPF\ChempionsCar\bin\Debug\net6.0-windows\gssapi64.dll
+G:\Proj.WPF\ChempionsCar\bin\Debug\net6.0-windows\k5sprt64.dll
+G:\Proj.WPF\ChempionsCar\bin\Debug\net6.0-windows\krb5_64.dll
+G:\Proj.WPF\ChempionsCar\bin\Debug\net6.0-windows\krbcc64.dll
+G:\Proj.WPF\ChempionsCar\bin\Debug\net6.0-windows\MySqlConnector.dll
+G:\Proj.WPF\ChempionsCar\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+G:\Proj.WPF\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.csproj.AssemblyReference.cache
+G:\Proj.WPF\ChempionsCar\obj\Debug\net6.0-windows\AddCar.g.cs
+G:\Proj.WPF\ChempionsCar\obj\Debug\net6.0-windows\CarInfo.g.cs
+G:\Proj.WPF\ChempionsCar\obj\Debug\net6.0-windows\MainWindow.g.cs
+G:\Proj.WPF\ChempionsCar\obj\Debug\net6.0-windows\App.g.cs
+G:\Proj.WPF\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar_MarkupCompile.cache
+G:\Proj.WPF\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar_MarkupCompile.lref
+G:\Proj.WPF\ChempionsCar\obj\Debug\net6.0-windows\AddCar.baml
+G:\Proj.WPF\ChempionsCar\obj\Debug\net6.0-windows\CarInfo.baml
+G:\Proj.WPF\ChempionsCar\obj\Debug\net6.0-windows\MainWindow.baml
+G:\Proj.WPF\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.g.resources
+G:\Proj.WPF\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.GeneratedMSBuildEditorConfig.editorconfig
+G:\Proj.WPF\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.AssemblyInfoInputs.cache
+G:\Proj.WPF\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.AssemblyInfo.cs
+G:\Proj.WPF\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.csproj.CoreCompileInputs.cache
+G:\Proj.WPF\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.csproj.CopyComplete
+G:\Proj.WPF\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.dll
+G:\Proj.WPF\ChempionsCar\obj\Debug\net6.0-windows\refint\ChempionsCar.dll
+G:\Proj.WPF\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.pdb
+G:\Proj.WPF\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.genruntimeconfig.cache
+G:\Proj.WPF\ChempionsCar\obj\Debug\net6.0-windows\ref\ChempionsCar.dll
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.exe
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.dll.config
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.deps.json
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.runtimeconfig.json
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.dll
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.pdb
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\bin\Debug\net6.0-windows\Google.Protobuf.dll
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\bin\Debug\net6.0-windows\MySql.Data.dll
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\bin\Debug\net6.0-windows\ZstdNet.dll
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\bin\Debug\net6.0-windows\comerr64.dll
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\bin\Debug\net6.0-windows\gssapi64.dll
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\bin\Debug\net6.0-windows\k5sprt64.dll
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\bin\Debug\net6.0-windows\krb5_64.dll
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\bin\Debug\net6.0-windows\krbcc64.dll
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\bin\Debug\net6.0-windows\MySqlConnector.dll
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.csproj.AssemblyReference.cache
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\obj\Debug\net6.0-windows\AddCar.g.cs
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\obj\Debug\net6.0-windows\CarInfo.g.cs
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\obj\Debug\net6.0-windows\App.g.cs
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar_MarkupCompile.cache
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar_MarkupCompile.lref
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\obj\Debug\net6.0-windows\AddCar.baml
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\obj\Debug\net6.0-windows\CarInfo.baml
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.g.resources
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.GeneratedMSBuildEditorConfig.editorconfig
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.AssemblyInfoInputs.cache
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.AssemblyInfo.cs
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.csproj.CoreCompileInputs.cache
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.csproj.CopyComplete
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.dll
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\obj\Debug\net6.0-windows\refint\ChempionsCar.dll
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.pdb
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.genruntimeconfig.cache
+E:\Etrapez studia\Etrapez FULL\PRODZEKT WPF\ChempionsCar\obj\Debug\net6.0-windows\ref\ChempionsCar.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.exe
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.dll.config
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.deps.json
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.runtimeconfig.json
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.pdb
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\bin\Debug\net6.0-windows\Google.Protobuf.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\bin\Debug\net6.0-windows\MySql.Data.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\bin\Debug\net6.0-windows\ZstdNet.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\bin\Debug\net6.0-windows\comerr64.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\bin\Debug\net6.0-windows\gssapi64.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\bin\Debug\net6.0-windows\k5sprt64.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\bin\Debug\net6.0-windows\krb5_64.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\bin\Debug\net6.0-windows\krbcc64.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\bin\Debug\net6.0-windows\MySqlConnector.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.csproj.AssemblyReference.cache
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\obj\Debug\net6.0-windows\AddCar.g.cs
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\obj\Debug\net6.0-windows\CarInfo.g.cs
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\obj\Debug\net6.0-windows\App.g.cs
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar_MarkupCompile.cache
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar_MarkupCompile.lref
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\obj\Debug\net6.0-windows\AddCar.baml
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\obj\Debug\net6.0-windows\CarInfo.baml
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\obj\Debug\net6.0-windows\MainWindow.baml
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.g.resources
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.GeneratedMSBuildEditorConfig.editorconfig
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.AssemblyInfoInputs.cache
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.AssemblyInfo.cs
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.csproj.CoreCompileInputs.cache
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.csproj.CopyComplete
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\obj\Debug\net6.0-windows\refint\ChempionsCar.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.pdb
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.genruntimeconfig.cache
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\ChempionsCar\obj\Debug\net6.0-windows\ref\ChempionsCar.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.exe
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.dll.config
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.deps.json
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.runtimeconfig.json
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.pdb
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\Google.Protobuf.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\MySql.Data.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\ZstdNet.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\comerr64.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\gssapi64.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\k5sprt64.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\krb5_64.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\krbcc64.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\MySqlConnector.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.csproj.AssemblyReference.cache
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\AddCar.g.cs
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\CarInfo.g.cs
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\App.g.cs
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar_MarkupCompile.cache
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar_MarkupCompile.lref
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\AddCar.baml
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\CarInfo.baml
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\MainWindow.baml
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.g.resources
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.GeneratedMSBuildEditorConfig.editorconfig
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.AssemblyInfoInputs.cache
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.AssemblyInfo.cs
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.csproj.CoreCompileInputs.cache
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.csproj.CopyComplete
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\refint\ChempionsCar.dll
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.pdb
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.genruntimeconfig.cache
+E:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\ref\ChempionsCar.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.exe
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.dll.config
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.deps.json
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.runtimeconfig.json
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\ChempionsCar.pdb
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\ZstdNet.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\comerr64.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\gssapi64.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\k5sprt64.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\krb5_64.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\krbcc64.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\MySqlConnector.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.csproj.AssemblyReference.cache
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\AddCar.g.cs
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\CarInfo.g.cs
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\App.g.cs
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar_MarkupCompile.cache
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar_MarkupCompile.lref
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\AddCar.baml
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\CarInfo.baml
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\MainWindow.baml
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.g.resources
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.AssemblyInfoInputs.cache
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.AssemblyInfo.cs
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.csproj.CoreCompileInputs.cache
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.csproj.CopyComplete
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\refint\ChempionsCar.dll
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.pdb
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\ChempionsCar.genruntimeconfig.cache
+D:\STUDIA\SEMESTR 4\Programowanie IV (proj)\Finisz\Sidorowicz_s103148\ChempionsCar\obj\Debug\net6.0-windows\ref\ChempionsCar.dll

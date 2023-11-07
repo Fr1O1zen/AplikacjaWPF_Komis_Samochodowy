@@ -1,0 +1,34 @@
+﻿<Window x:Class="ChempionsCar.CarInfo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChempionsCar"
+        mc:Ignorable="d"
+        Title="CarInfo" Height="460" Width="810">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Img/dashboardInfo.jpg"/>
+        </Grid.Background>
+        <Label Content="Rok:" HorizontalAlignment="Left" Margin="582,90,0,0" VerticalAlignment="Top" Background="#FFE6FF00" FontFamily="Arial Black"/>
+        <Label Content="Przebieg(tyś)" HorizontalAlignment="Left" Margin="573,30,0,0" VerticalAlignment="Top" Background="#FFE6FF00" FontFamily="Arial Black"/>
+        <Label Content="Cena(PLN):" HorizontalAlignment="Left" Margin="513,277,0,0" VerticalAlignment="Top" Background="#FFE6FF00" FontFamily="Arial Black" Height="41" FontStretch="Medium" FontSize="16"/>
+        <Label Content="Marka:" HorizontalAlignment="Left" Margin="33,30,0,0" VerticalAlignment="Top" Background="#FFE6FF00" FontFamily="Arial Black"/>
+        <Label Content="Moc(KM):" HorizontalAlignment="Left" Margin="33,90,0,0" VerticalAlignment="Top" Background="#FFE6FF00" FontFamily="Arial Black"/>
+        <Label Content="Pojemność(L):" HorizontalAlignment="Left" Margin="211,90,0,0" VerticalAlignment="Top" Background="#FFE6FF00" FontFamily="Arial Black"/>
+        <TextBox HorizontalAlignment="Left" Name="Opis" Margin="33,155,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="444" Height="244" TextChanged="TextBox_TextChanged" Text="-----Audio i multimedia&#xA;Radio&#xA;-----Komfort i dodatki&#xA;Klimatyzacja automatyczna&#xA;----Tapicerka skórzana&#xA;Podgrzewany fotel kierowcy&#xA;Podgrzewany fotel pasażera&#xA;Elektryczne szyby przednie&#xA;Elektryczne szyby tylne&#xA;----Systemy wspomagania kierowcy&#xA;Tempomat&#xA;Lusterka boczne ustawiane elektrycznie&#xA;Kontrola trakcji&#xA;Wspomaganie kierownicy&#xA;Blokada mechanizmu różnicowego"/>
+        <Label Content="Opis:" HorizontalAlignment="Left" Margin="33,131,0,0" VerticalAlignment="Top" Background="#FFE6FF00" FontFamily="Arial Black"/>
+        <TextBox HorizontalAlignment="Left" Name="Pojemnosc" Margin="314,90,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="71" Height="24" TextChanged="TextBox_TextChanged" Text="6" FontSize="14"/>
+        <TextBox HorizontalAlignment="Left" Name="Marka" Margin="88,30,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="195" Height="24" TextChanged="TextBox_TextChanged" FontSize="14" Text="Mitshubishi"/>
+        <TextBox HorizontalAlignment="Left" Name="Przebieg" Margin="669,30,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="105" Height="24" TextChanged="TextBox_TextChanged" Text="290" FontSize="14"/>
+        <TextBox HorizontalAlignment="Left" Name="Moc" Margin="105,90,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="101" Height="24" TextChanged="TextBox_TextChanged" Text="394" FontSize="14"/>
+        <TextBox HorizontalAlignment="Left" Name="Cena" Margin="621,277,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="105" Height="41" TextChanged="TextBox_TextChanged" Text="88000" FontSize="20"/>
+        <TextBox HorizontalAlignment="Left" Name="DataProd" Margin="621,90,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="110" Height="24" TextChanged="TextBox_TextChanged" Text="1998" FontSize="14"/>
+        <Label Content="Model:" HorizontalAlignment="Left" Margin="296,30,0,0" VerticalAlignment="Top" Background="#FFE6FF00" FontFamily="Arial Black"/>
+        <TextBox HorizontalAlignment="Left" Name="Model" Margin="349,30,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="209" Height="24" TextChanged="TextBox_TextChanged" FontSize="14" Text="Lancer EX 2000 TURBO SEi"/>
+
+        <Label Content="Paliwo:" HorizontalAlignment="Left" Margin="400,90,0,0" VerticalAlignment="Top" Background="#FFE6FF00" FontFamily="Arial Black" Width="60"/>
+        <TextBox HorizontalAlignment="Left" Name="Paliwo" Margin="460,90,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="110" Height="24" TextChanged="TextBox_TextChanged" Text="Benzyna" FontSize="14"/>
+        <Button Content="Usuń" Click="DeleteCar"  HorizontalAlignment="Left" Margin="660,352,0,0" VerticalAlignment="Top" Height="47" Width="66" FontSize="15" FontWeight="Bold" FontFamily="Cascadia Code" Background="#FFFF9800"/>
+    </Grid>
+</Window>

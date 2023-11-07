@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="bmwBackground.png" />
+    <None Remove="car_background.jfif" />
+    <None Remove="dashboard.jpg" />
+    <None Remove="dashboardInfo.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MSTest.TestAdapter" Version="3.1.1" />
+    <PackageReference Include="MSTest.TestFramework" Version="3.1.1" />
+    <PackageReference Include="MySql.Data" Version="8.0.32" />
+    <PackageReference Include="MySqlConnector" Version="2.2.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Img\bmwBackground.png" />
+    <Resource Include="Img\car_background.jfif" />
+    <Resource Include="Img\dashboard.jpg" />
+    <Resource Include="Img\dashboardInfo.jpg" />
+  </ItemGroup>
+
+</Project>

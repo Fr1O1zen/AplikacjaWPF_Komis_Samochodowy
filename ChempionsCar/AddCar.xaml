@@ -1,0 +1,118 @@
+﻿<Window x:Class="ChempionsCar.AddCar"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChempionsCar"
+        mc:Ignorable="d"
+        Title="AddCar" Width="845" Height="600" ResizeMode="NoResize">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Img/bmwBackground.png" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <Button x:Name="Add_Car" Content="Dodaj" HorizontalAlignment="Left" Height="39" Margin="699,507,0,0" VerticalAlignment="Top" Width="122" Click="AddCarDB"/>
+        <TextBox HorizontalAlignment="Left" Margin="37,60,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="164" RenderTransformOrigin="0.06,-0.101">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.139"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <TextBox HorizontalAlignment="Left" Name="Model" Margin="37,119,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="164" RenderTransformOrigin="0.06,-0.101">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.139"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <Label Content="Marka" HorizontalAlignment="Left" Margin="39,29,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.531,-0.113"/>
+        <Label Content="Model" HorizontalAlignment="Left" Margin="39,91,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.531,-0.113" Background="White"/>
+        <DatePicker HorizontalAlignment="Left" Name="DataProd"  Margin="38,193,0,0" VerticalAlignment="Top" Width="144"/>
+        <Label Content="Data produkcji" HorizontalAlignment="Left" Margin="38,162,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.531,-0.113" Background="White"/>
+        <TextBox HorizontalAlignment="Left" Name="Marka" Margin="37,60,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="164" RenderTransformOrigin="0.06,-0.101">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.139"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <Label Content="Marka" HorizontalAlignment="Left" Margin="39,29,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.531,-0.113" Background="White"/>
+        <TextBox HorizontalAlignment="Left" Name="Przebieg" Margin="275,60,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="164" RenderTransformOrigin="0.06,-0.101" InputScope="Number">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.139"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <Label Content="Przebieg(tyś)" HorizontalAlignment="Left" Margin="277,29,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.531,-0.113" Background="White"/>
+        <TextBox HorizontalAlignment="Left" Name="Cena" Margin="275,122,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="164" RenderTransformOrigin="0.06,-0.101" InputScope="Number">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.139"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <Label Content="Cena(PLN)" HorizontalAlignment="Left" Margin="277,91,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.531,-0.113" Background="White"/>
+        <RichTextBox Margin="38,233,278,38" Name="Opis">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="Opis pojazdu"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <TextBox HorizontalAlignment="Left" Name="Moc" Margin="275,188,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="164" RenderTransformOrigin="0.06,-0.101" InputScope="Number">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.139"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <Label Content="Moc(KM)" HorizontalAlignment="Left" Margin="277,157,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.531,-0.113" Background="White"/>
+        <TextBox HorizontalAlignment="Left" Name="Pojemnosc" Margin="494,60,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="55" RenderTransformOrigin="0.06,-0.101" InputScope="Number">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.139"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <Label Content="Pojemność(L)" HorizontalAlignment="Left" Margin="496,29,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.531,-0.113" Background="White"/>
+        <Label Content="Paliwo" HorizontalAlignment="Left" Margin="496,91,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.531,-0.113" Background="White"/>
+        <ComboBox HorizontalAlignment="Left" Name="Paliwo" Height="21" Margin="496,122,0,0" VerticalAlignment="Top" Width="125">
+            <ComboBoxItem>Benzyna</ComboBoxItem>
+            <ComboBoxItem>Diesel</ComboBoxItem>
+            <ComboBoxItem>LPG</ComboBoxItem>
+        </ComboBox>
+        <Label Content="Tag" HorizontalAlignment="Left" Margin="496,157,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.531,-0.113" Background="White"/>
+        <TextBox HorizontalAlignment="Left" Name="Tag" Margin="493,188,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="263" RenderTransformOrigin="0.06,-0.101">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.139"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+    </Grid>
+</Window>
